@@ -27,7 +27,27 @@ This challenge involves a very important aspect of web development: **accessibil
 
 
 
-**Important**: An important rule to follow when working with someone else's code is the **Scout Rule**, which recommends that you always leave the code a little cleaner than when you found it.
+## The Approach
+
+
+I replaced all non-semantic HTML elements with semantic HTML tags that define the meaning of the content.
+
+Replaced div tags with header, footer, ul, aside, and section tags for more clarity.
+
+Allo added a main content which includes two sections, one for articles and one for the aside bar.
+
+I added **alt** attribute that specifies an alternate text for an image that was missing.
+
+
+![](./assets/images/page.png)
+
+After following **Scout Rule** cleaning the CSS file and removing the repeated classes, I tested the page for errors using the Web Accessibility evaluation tool.
+
+![](./assets/images/wave.png)
+
+
+
+
 
 
 
