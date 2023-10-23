@@ -3,15 +3,16 @@
 ## Overview 
 
 My task was to optimise a webpage which must meet accessibility standards. 
+This challenge involves a very important aspect of web development: **accessibility**. 
+
+
+Acceptance Criteria:
 
 * Semantic HTML elements can be found throughout the source code
 * HTML elements follow a logical structure independent of styling and positioning
 * Image and icon elements contain accessible `alt` attributes
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
-
-
-This challenge involves a very important aspect of web development: **accessibility**. 
 
 
 ## The Technologies used
@@ -36,7 +37,7 @@ Replaced div tags with header, footer, ul, aside, and section tags for more clar
 
 Allo added a main content which includes two sections, one for articles and one for the aside bar.
 
-I added **alt** attribute that specifies an alternate text for an image that was missing.
+I added **alt** attribute that specifies an alternate text to all images.
 
 
 ![](./assets/images/page.png)
